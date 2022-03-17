@@ -1,0 +1,15 @@
+{
+    "name": "daniilkoversun/php-site-haudi-ho",
+    "authors": [
+        {
+            "name": "Daniil",
+            "email": "koversundanil@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "application\\": "application/",
+            "includes\\": "includes/"
+        }
+    }
+}

@@ -1,0 +1,97 @@
+.main-nav{
+    margin: 0;
+    padding: 0;
+}
+
+.main-nav li{
+    list-style: none;
+}
+
+.main-nav li a{
+    color: cadetblue;
+    text-decoration: none;
+    float: left;
+    font-weight: bold;
+    font-size: 20px;
+    margin: 15px 15px;
+    margin-left: 100px;
+}
+
+.main-nav li a:hover{
+    color: #ccc;
+}
+
+h1{
+    color: cadetblue;
+}
+
+.header{
+    border-bottom: 4px solid #ccc;
+    margin-bottom: 50px;
+}
+
+.header-a{
+    text-decoration: none;
+}
+
+.hd:hover{
+    color: #ccc;
+}
+
+.first{
+    background-color: #ccc;
+    border-radius: 20px;
+    text-align: left;
+    padding: 15px;
+    border: 2px solid red;
+}
+
+.second{
+    background-color: #ccc;
+    margin-left: 110px;
+    border-radius: 20px;
+    text-align: center;
+    padding: 15px;
+    border: 2px solid red;
+    height: 500px;
+}
+
+.category{
+
+}
+
+.category li{
+    list-style: none;
+    padding: 10px;
+    text-align: left;
+}
+
+.category li a{
+    color: cadetblue;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+.category li a:hover{
+    color: #fff;
+}
+
+.main-content{
+    margin-bottom: 50px;
+}
+
+.obvod{
+    border: 2px solid #fff;
+    border-radius: 20px;
+    text-align: left;
+    padding: 15px;
+    margin-bottom: 20px;
+}
+
+.ssilka{
+    text-decoration: none;
+}
+
+.obvod a{
+    text-decoration: none;
+}
